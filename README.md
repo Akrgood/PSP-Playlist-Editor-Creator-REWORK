@@ -60,3 +60,5 @@ Program searches for PSP:
 - Can work with PSP remotely - program will find it when connected
 
 **Run from any folder. Program will find and configure everything automatically.**
+
+Edited by me. Original: https://www.reddit.com/r/PSP/comments/1qrqi74/i_couldnt_get_playlists_to_work_on_my_psp_3000/
